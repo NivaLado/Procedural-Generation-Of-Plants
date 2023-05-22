@@ -11,3 +11,6 @@ This project serves as a testament to the versatility and capability of C# as a 
 Overall, this project serves as a comprehensive demonstration of procedural grass, plant, and bush generation in a C# environment, highlighting the potential for creating visually impressive natural environments through the synergistic integration of algorithms and graphical techniques.
 
 ![image](https://github.com/NivaLado/Procedural-Generation-Of-Plants/assets/42045645/ea847a07-53b7-4f2c-b0ec-89d9e6ae0298)
+
+![image](https://github.com/NivaLado/Procedural-Generation-Of-Plants/assets/42045645/aee754ea-65e3-46fe-9b4e-987c77666a25)
+
